@@ -1,2 +1,3 @@
-# Otto-pet-robot
-This is a DIY model of a famous pet Robot
+I am excited to share progress on my ongoing robotics project, a robotic pet designed for interactive engagement. The current prototype demonstrates core functionalities, including walking and dancing, powered by four 9g servo motors for locomotion. By integrating with a network device or chatbot, the robot can engage in conversational interactions, making it a versatile companion.
+The system is built around an Arduino Nano microcontroller, paired with a custom-designed Nano shield to optimize performance. The control software, written in C++ with assistance from AI tools, leverages open-source libraries from Ottodiy to streamline development and ensure robust servo control and motion capabilities.
+The project is still in the development phase, with plans to enhance the robot’s capabilities. Future iterations may include advanced features such as obstacle avoidance, voice recognition, or expressive LED displays to further enrich user interaction.
